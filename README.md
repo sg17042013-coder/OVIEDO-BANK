@@ -11,10 +11,6 @@ Banco ficticio para el roleplay de OVIEDO RP.
 5. Selecciona la rama `main` y la carpeta `/ (root)`.
 6. Guarda y espera a que GitHub Pages publique la web.
 
-## Imagen de marca
-
-El logotipo aparece en la cabecera, en el inicio y como favicon del sitio.
-
 ## Funciones de esta versión
 
 - Alta de cuentas ficticias.
